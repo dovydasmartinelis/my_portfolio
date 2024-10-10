@@ -13,26 +13,26 @@ function Projects() {
         <ProjectCard
           src={viberr}
           link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Viberr"
-          p="Streaming App"
+        h3="To be announced"
+          p="..."
         />
         <ProjectCard
           src={freshBurger}
           link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Fresh Burger"
-          p="Hamburger Restaurant"
+      h3="To be announced"
+          p="..."
         />
         <ProjectCard
           src={hipsster}
           link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Hipsster"
-          p="Glasses Shop"
+         h3="To be announced"
+          p="..."
         />
         <ProjectCard
           src={fitLift}
           link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="FitLift"
-          p="Fitness App"
+          h3="To be announced"
+          p="..."
         />
       </div>
     </section>
