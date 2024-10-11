@@ -13,7 +13,7 @@ function Projects() {
         <ProjectCard
           src={viberr}
           link="https://github.com/Ade-mir/company-landing-page-2"
-        h3="To be announced"
+        h3="Working on it"
           p="..."
         />
         <ProjectCard
@@ -22,18 +22,7 @@ function Projects() {
       h3="To be announced"
           p="..."
         />
-        <ProjectCard
-          src={hipsster}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-         h3="To be announced"
-          p="..."
-        />
-        <ProjectCard
-          src={fitLift}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="To be announced"
-          p="..."
-        />
+
       </div>
     </section>
   );
